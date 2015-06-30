@@ -48,7 +48,7 @@ angular
   })
   .config(function (apiMockProvider) {
     apiMockProvider.config({
-      mockDataPath: '/person-demo/mock_data',
+      mockDataPath: '/person-demo/app/mock_data',
       apiPath: '/api'
     });
   });
