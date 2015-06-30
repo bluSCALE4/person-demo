@@ -1,0 +1,20 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "firstName": "Luis",
+      "lastName": "Larrea",
+      "bio": "Developer, Father, Husband"
+    }, {
+      "id": 2,
+      "firstName": "Aria",
+      "lastName": "Larrea",
+      "bio": "Alphabet and Number Wiz"
+    }, {
+      "id": 3,
+      "firstName": "Piero",
+      "lastName": "Larrea",
+      "bio": "Professional Drooler, Avid Jumper"
+    }
+  ]
+}
